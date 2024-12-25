@@ -1,1 +1,1 @@
-https://www.figma.com/design/aVCxQeBeG0r75aFxrnLSG3/VASANTHARAJ--PORTFOLIO?node-id=0-1&p=f&t=m0vJl0XHoaNaC0Be-0
+https://www.figma.com/proto/aVCxQeBeG0r75aFxrnLSG3/VASANTHARAJ--PORTFOLIO?node-id=16-355&p=f&t=O3IWkDhlqlqLKGT2-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
